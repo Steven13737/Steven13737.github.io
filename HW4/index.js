@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Did they charge anything for the things they sold?" asked Jack.',
+      'Did they charge anything for the things they sold? asked Jack.',
   'example2':
-      'Of driving, ma'am. Daisy is an excellent whip, for her years and strength.',
+      'Of driving, maam. Daisy is an excellent whip, for her years and strength.',
   'example3':
       'The operations involved are two: the blowing of a short side tube on a piece of tubing, and sealing another piece of tubing on this, by what is essentially the second method as just described.',
   'example4':
