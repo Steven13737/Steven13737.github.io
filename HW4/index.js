@@ -14,7 +14,7 @@ const examples = {
   'example3':
      'the glass be heated to the highest temperature of the flame it will',
   'example4':
-      her keen black eyes peeping from under the fur of her hood',
+      'her keen black eyes peeping from under the fur of her hood',
 };
 
 function status(statusText) {
