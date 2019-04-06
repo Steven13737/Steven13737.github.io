@@ -8,11 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      "'Oh, how I dread the winter!' said the tiny wren. 'Just imagine how
+      'Oh, how I dread the winter! said the tiny wren. Just imagine how
 dreadful it would be if no one put any bread crumbs out for us, or no
-dog left us some of his dinner on a back porch.'
-
-'Now,' said Mr. Brown Wren, 'you mustn't think of such sad thoughts.",
+dog left us some of his dinner on a back porch.Now, said Mr. Brown Wren, you mustnt think of such sad thoughts.",
   'example2':
       'It was a freight train; there was but one passenger car',
   'example3':
