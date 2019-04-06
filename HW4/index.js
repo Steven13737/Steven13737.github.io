@@ -8,13 +8,17 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Did they charge anything for the things they sold? asked Jack.',
+      "'Oh, how I dread the winter!' said the tiny wren. 'Just imagine how
+dreadful it would be if no one put any bread crumbs out for us, or no
+dog left us some of his dinner on a back porch.'
+
+'Now,' said Mr. Brown Wren, 'you mustn't think of such sad thoughts.",
   'example2':
-      'Of driving, maam. Daisy is an excellent whip, for her years and strength.',
+      'It was a freight train; there was but one passenger car',
   'example3':
-      'The operations involved are two: the blowing of a short side tube on a piece of tubing, and sealing another piece of tubing on this, by what is essentially the second method as just described.',
+     'the glass be heated to the highest temperature of the flame it will',
   'example4':
-      'You are an old—an old goose, Dan Dyce, and a Happy New Year to you',
+      her keen black eyes peeping from under the fur of her hood',
 };
 
 function status(statusText) {
